@@ -14,12 +14,12 @@ public class Result {
         this.grade = calculateGrade(marks);
     }
 
-    public Result(int id, int studentId, String subject, int marks, String grade) {
+    public Result(int id, int studentId, String subject, int marks, String grades) {
         this.id = id;
         this.studentId = studentId;
         this.subject = subject;
         this.marks = marks;
-        this.grade = grade;
+        this.grade = grades;
     }
 
     // Getters & setters
