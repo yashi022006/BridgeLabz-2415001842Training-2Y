@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 
 interface PaymentProcessor {
     void processPayment(double amount);

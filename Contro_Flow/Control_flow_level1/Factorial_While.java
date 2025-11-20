@@ -16,7 +16,7 @@ public class Factorial_While {
 	            System.out.println("Factorial: " + fact);
 	        } else {
 	            System.out.println("Not a natural number");
-	        }
+	        }sc.close();
 	    }
 	}
 

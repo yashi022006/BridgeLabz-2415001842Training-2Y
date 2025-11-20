@@ -12,6 +12,7 @@ public class RocketCountdown {
 	            counter--;
 	        }
 	        System.out.println("Launch!");
+			sc.close();
 	    }
 }
 

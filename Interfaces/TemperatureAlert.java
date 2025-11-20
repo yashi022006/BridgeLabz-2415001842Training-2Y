@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 
 interface Alert {
     void test(int currentTemp);

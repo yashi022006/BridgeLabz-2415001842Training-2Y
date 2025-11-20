@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 
 public class BackgroundJob {
     public static void main(String[] args) {
